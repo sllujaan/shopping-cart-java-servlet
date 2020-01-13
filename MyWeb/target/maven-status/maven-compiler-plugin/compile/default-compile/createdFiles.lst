@@ -1,0 +1,5 @@
+com\mycompany\myweb\Product.class
+com\mycompany\myweb\LoginServlet.class
+com\mycompany\myweb\ShoppingCartServlet.class
+com\mycompany\myweb\Cart.class
+com\mycompany\myweb\DatabaseHelper.class
